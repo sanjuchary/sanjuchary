@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT Js**
 
-- 👨‍💻 All of my projects are available at [https://sanjuchary.github.io/personal_portfolio/](https://sanjuchary.github.io/personal_portfolio/)
+- 👨‍💻 All of my projects are available at [(https://portfolio-nu-nine-21.vercel.app/)](https://portfolio-nu-nine-21.vercel.app/)
 
 - 📫 How to reach me **sanjuchary5895@gmail.com**
 
