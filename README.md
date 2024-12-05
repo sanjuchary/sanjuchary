@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjuchary15" target="blank"><img src="https://img.shields.io/twitter/follow/sanjuchary15?logo=twitter&style=for-the-badge" alt="sanjuchary15" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT Js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [(https://portfolio-nu-nine-21.vercel.app/)](https://portfolio-nu-nine-21.vercel.app/)
 
