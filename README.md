@@ -6,24 +6,16 @@
 
 <br/><br/>
 
-<a href="https://sanjay-portfolio-silk.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-58A6FF?style=for-the-badge&labelColor=0d1117" />
-</a>
-<a href="mailto:sanjuchary5895@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/sanju-chary-1a2091224" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/sanjuchary15" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://instagram.com/sanju_chary_15" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://sanjay-portfolio-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-58A6FF?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:sanjuchary5895@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/sanju-chary-1a2091224" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/sanjuchary15" target="_blank"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/sanju_chary_15" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sanjuchary&label=Profile+Views&color=58A6FF&style=for-the-badge" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -60,7 +52,7 @@ const me = {
 
 > **Reimagining retail checkout for India 🇮🇳**
 >
-> QwkPay lets shoppers at **D-Mart, Reliance Smart & Ratnadeep** scan items, pay, and walk out.  
+> QwkPay lets shoppers at **D-Mart, Reliance Smart & Ratnadeep** scan items, pay, and walk out.
 > Zero queues. Zero cashiers. Zero friction.
 >
 > `Scan` → `Bag` → `Pay` → `Walk Out ✅`
@@ -116,16 +108,13 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjuchary&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjuchary&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanjuchary&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjuchary&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" height="175" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=sanjuchary&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjuchary&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -149,18 +138,10 @@ const me = {
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sanju-chary-1a2091224" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/sanjuchary15" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://instagram.com/sanju_chary_15" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:sanjuchary5895@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/sanju-chary-1a2091224" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/sanjuchary15" target="_blank"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/sanju_chary_15" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="mailto:sanjuchary5895@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
